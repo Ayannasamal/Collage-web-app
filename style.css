@@ -1,0 +1,50 @@
+html,body{
+    background-color: rgb(129, 189, 242);
+}
+h1{
+    color:rgb(75, 160, 234)
+}
+h3{
+    color:rgb(58, 156, 241)
+}
+h4{
+    color: royalblue
+}
+label{
+    color:rgb(60, 160, 248)
+}
+button{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(161, 201, 236);
+    color: rgb(3, 102, 189);
+    border-width: 2px;
+    margin-top: 10px;
+    padding: 6px;
+    font-size: 16px;
+    font-family: fantasy;
+  }
+#camera{
+    border-color:rgb(0, 136, 255)
+}
+img{
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(87, 144, 206, 0.2);
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 50px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(32, 145, 245);
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+}
